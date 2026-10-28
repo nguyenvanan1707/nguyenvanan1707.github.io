@@ -1,0 +1,82 @@
+{
+  "id": "E9-LUYEN-01",
+  "slug": "grade9-grammar-practice-set-01",
+  "title": "Grade 9 Grammar Practice – Set 01 (no time limit)",
+  "description": "A relaxed practice set with no time limit. Take your time and review the answers after you submit.",
+  "grade": 9,
+  "program": "global-success",
+  "examType": "topic",
+  "durationMinutes": null,
+  "featured": true,
+  "tags": ["grade-9", "grammar"],
+  "publishedAt": "2026-10-27",
+  "settings": { "showAnswersAfterSubmit": true, "showExplanation": true, "maxScore": 10 },
+  "sections": [
+    {
+      "id": "s1",
+      "title": "GRAMMAR",
+      "instruction": "Choose the best answer.",
+      "questions": [
+        {
+          "id": "q1", "type": "single_choice", "points": 1,
+          "prompt": "If it rains tomorrow, we ______ at home.",
+          "options": [{ "id": "A", "text": "stay" }, { "id": "B", "text": "stayed" }, { "id": "C", "text": "will stay" }, { "id": "D", "text": "would stay" }],
+          "answer": "C",
+          "explanation": "First conditional: If + present simple, will + verb."
+        },
+        {
+          "id": "q2", "type": "single_choice", "points": 1,
+          "prompt": "The book ______ by millions of people around the world.",
+          "options": [{ "id": "A", "text": "reads" }, { "id": "B", "text": "is read" }, { "id": "C", "text": "was reading" }, { "id": "D", "text": "has read" }],
+          "answer": "B",
+          "explanation": "Passive voice, present simple: is/are + past participle."
+        },
+        {
+          "id": "q3", "type": "single_choice", "points": 1,
+          "prompt": "She asked me ______ I was going.",
+          "options": [{ "id": "A", "text": "where" }, { "id": "B", "text": "what" }, { "id": "C", "text": "who" }, { "id": "D", "text": "which" }],
+          "answer": "A",
+          "explanation": "Reported question about a place: where."
+        },
+        {
+          "id": "q4", "type": "single_choice", "points": 1,
+          "prompt": "I wish I ______ more free time.",
+          "options": [{ "id": "A", "text": "have" }, { "id": "B", "text": "had" }, { "id": "C", "text": "will have" }, { "id": "D", "text": "having" }],
+          "answer": "B",
+          "explanation": "A wish about the present uses the past simple."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "SHORT ANSWER",
+      "instruction": "Complete each sentence with ONE word.",
+      "questions": [
+        {
+          "id": "q5", "type": "fill_blank", "points": 1,
+          "prompt": "She has lived here ______ 2015.",
+          "acceptedAnswers": ["since"],
+          "explanation": "Use \"since\" with a starting point in time (present perfect)."
+        },
+        {
+          "id": "q6", "type": "fill_blank", "points": 1,
+          "prompt": "He is the ______ student in our class. (tall)",
+          "acceptedAnswers": ["tallest"],
+          "explanation": "Superlative of a short adjective: the + adjective + -est."
+        },
+        {
+          "id": "q7", "type": "fill_blank", "points": 1,
+          "prompt": "We have to wear a uniform, ______ we? (Fill in the question tag)",
+          "acceptedAnswers": ["don't"],
+          "explanation": "\"have to\" is positive, so the tag is negative: don't we?"
+        },
+        {
+          "id": "q8", "type": "fill_blank", "points": 1,
+          "prompt": "Nam is interested ______ learning English.",
+          "acceptedAnswers": ["in"],
+          "explanation": "The fixed phrase is \"be interested in + V-ing\"."
+        }
+      ]
+    }
+  ]
+}

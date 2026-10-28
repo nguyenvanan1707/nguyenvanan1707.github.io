@@ -1,0 +1,48 @@
+[
+  {
+    "id": "E6-VOC-01",
+    "slug": "grade6-vocabulary-set-01",
+    "file": "vocabulary/grade-6/grade6-vocabulary-set-01.json",
+    "title": "Vocabulary Practice Exercises – Places in Town",
+    "emoji": "🏙️",
+    "grade": 6,
+    "program": "global-success",
+    "examType": "skill-practice",
+    "skill": "vocabulary",
+    "totalQuestions": 48,
+    "durationMinutes": 15,
+    "featured": true,
+    "tags": ["grade-6", "vocabulary", "places-in-town"],
+    "publishedAt": "2026-10-27"
+  },
+  {
+    "id": "E9-LUYEN-01",
+    "slug": "grade9-grammar-practice-set-01",
+    "file": "grammar/grade-9/grade9-grammar-practice-set-01.json",
+    "title": "Grade 9 Grammar Practice – Set 01 (no time limit)",
+    "grade": 9,
+    "program": "global-success",
+    "examType": "topic",
+    "skill": "grammar",
+    "totalQuestions": 8,
+    "durationMinutes": null,
+    "featured": true,
+    "tags": ["grade-9", "grammar"],
+    "publishedAt": "2026-10-27"
+  },
+  {
+    "id": "E10-GK1-01",
+    "slug": "grade10-midterm-1-set-01",
+    "file": "mixed/grade-10/grade10-midterm-1-set-01.json",
+    "title": "Grade 10 Midterm 1 – Global Success – Set 01",
+    "grade": 10,
+    "program": "global-success",
+    "examType": "midterm-1",
+    "skill": "mixed",
+    "totalQuestions": 10,
+    "durationMinutes": 15,
+    "featured": true,
+    "tags": ["grade-10", "midterm"],
+    "publishedAt": "2026-10-27"
+  }
+]

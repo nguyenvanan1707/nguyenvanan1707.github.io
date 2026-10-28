@@ -1,0 +1,106 @@
+{
+  "id": "E10-GK1-01",
+  "slug": "grade10-midterm-1-set-01",
+  "title": "Grade 10 Midterm 1 – Global Success – Set 01",
+  "description": "A sample test with grammar, vocabulary, reading and word-form questions. Time limit: 15 minutes.",
+  "grade": 10,
+  "program": "global-success",
+  "examType": "midterm-1",
+  "durationMinutes": 15,
+  "featured": true,
+  "tags": ["grade-10", "midterm"],
+  "publishedAt": "2026-10-27",
+  "settings": { "showAnswersAfterSubmit": true, "showExplanation": true, "maxScore": 10 },
+  "sections": [
+    {
+      "id": "s1",
+      "title": "GRAMMAR & VOCABULARY",
+      "instruction": "Mark the letter A, B, C or D to indicate the correct answer to each of the following questions.",
+      "questions": [
+        {
+          "id": "q1", "type": "single_choice", "points": 1,
+          "prompt": "She ______ to school by bike every day.",
+          "options": [{ "id": "A", "text": "go" }, { "id": "B", "text": "goes" }, { "id": "C", "text": "going" }, { "id": "D", "text": "is go" }],
+          "answer": "B",
+          "explanation": "Present simple with a third-person singular subject: she goes."
+        },
+        {
+          "id": "q2", "type": "single_choice", "points": 1,
+          "prompt": "My brother is good ______ playing football.",
+          "options": [{ "id": "A", "text": "at" }, { "id": "B", "text": "on" }, { "id": "C", "text": "in" }, { "id": "D", "text": "for" }],
+          "answer": "A",
+          "explanation": "The fixed phrase is \"be good at + V-ing\"."
+        },
+        {
+          "id": "q3", "type": "single_choice", "points": 1,
+          "prompt": "I ______ my homework when my mother came home.",
+          "options": [{ "id": "A", "text": "do" }, { "id": "B", "text": "did" }, { "id": "C", "text": "was doing" }, { "id": "D", "text": "have done" }],
+          "answer": "C",
+          "explanation": "An action in progress was interrupted by another action: past continuous."
+        },
+        {
+          "id": "q4", "type": "single_choice", "points": 1,
+          "prompt": "Which word has the OPPOSITE meaning to \"generous\"?",
+          "options": [{ "id": "A", "text": "kind" }, { "id": "B", "text": "mean" }, { "id": "C", "text": "friendly" }, { "id": "D", "text": "polite" }],
+          "answer": "B",
+          "explanation": "generous (giving freely) is the opposite of mean (unwilling to give)."
+        },
+        {
+          "id": "q5", "type": "single_choice", "points": 1,
+          "prompt": "There ______ a lot of water in the bottle.",
+          "options": [{ "id": "A", "text": "are" }, { "id": "B", "text": "is" }, { "id": "C", "text": "were" }, { "id": "D", "text": "have" }],
+          "answer": "B",
+          "explanation": "\"Water\" is uncountable, so we use \"is\"."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "READING",
+      "instruction": "Read the passage and choose the correct answer.",
+      "passage": "Tom is a Grade 10 student. He lives in Da Nang with his parents and his younger sister. Every morning, he gets up at six o'clock and goes to school by bus. After school, he often plays badminton with his friends. In the evening, he does his homework and reads English stories. He wants to become an English teacher in the future.",
+      "questions": [
+        {
+          "id": "q6", "type": "single_choice", "points": 1,
+          "prompt": "How does Tom go to school?",
+          "options": [{ "id": "A", "text": "By bike" }, { "id": "B", "text": "By bus" }, { "id": "C", "text": "On foot" }, { "id": "D", "text": "By motorbike" }],
+          "answer": "B",
+          "explanation": "The passage says: \"goes to school by bus\"."
+        },
+        {
+          "id": "q7", "type": "single_choice", "points": 1,
+          "prompt": "What does Tom do after school?",
+          "options": [{ "id": "A", "text": "He reads stories" }, { "id": "B", "text": "He plays badminton" }, { "id": "C", "text": "He watches TV" }, { "id": "D", "text": "He cooks dinner" }],
+          "answer": "B",
+          "explanation": "The passage says: \"After school, he often plays badminton with his friends\"."
+        },
+        {
+          "id": "q8", "type": "single_choice", "points": 1,
+          "prompt": "What does Tom want to be in the future?",
+          "options": [{ "id": "A", "text": "A doctor" }, { "id": "B", "text": "A singer" }, { "id": "C", "text": "An English teacher" }, { "id": "D", "text": "A footballer" }],
+          "answer": "C",
+          "explanation": "The passage says: \"He wants to become an English teacher\"."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "WORD FORM",
+      "instruction": "Write the correct form of the word in brackets.",
+      "questions": [
+        {
+          "id": "q9", "type": "fill_blank", "points": 1,
+          "prompt": "She is very ______ to everyone. (help)",
+          "acceptedAnswers": ["helpful"],
+          "explanation": "After \"very\" we need an adjective: helpful."
+        },
+        {
+          "id": "q10", "type": "fill_blank", "points": 1,
+          "prompt": "He speaks English ______. (fluent)",
+          "acceptedAnswers": ["fluently"],
+          "explanation": "An adverb is needed to describe the verb \"speaks\": fluently."
+        }
+      ]
+    }
+  ]
+}

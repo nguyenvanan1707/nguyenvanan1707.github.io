@@ -1,0 +1,556 @@
+{
+  "id": "E6-VOC-01",
+  "slug": "grade6-vocabulary-set-01",
+  "title": "Vocabulary Practice Exercises – Places in Town",
+  "description": "Learn the names of places in a town. Unscramble the letters, match each description to a place, then read and write the names of the places.",
+  "emoji": "🏙️",
+  "grade": 6,
+  "program": "global-success",
+  "examType": "skill-practice",
+  "skill": "vocabulary",
+  "durationMinutes": 15,
+  "featured": true,
+  "tags": [
+    "grade-6",
+    "vocabulary",
+    "places-in-town"
+  ],
+  "publishedAt": "2026-10-27",
+  "settings": {
+    "showAnswersAfterSubmit": true,
+    "showExplanation": false,
+    "maxScore": 10
+  },
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Exercise 1",
+      "instruction": "Unscramble the letters to write places you can find in the city.",
+      "questions": [
+        {
+          "id": "u01",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "LSOHCO",
+          "imageUrl": "/images/places/school.svg",
+          "acceptedAnswers": [
+            "school"
+          ],
+          "tags": [
+            "unscramble"
+          ]
+        },
+        {
+          "id": "u02",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "HCUHRC",
+          "imageUrl": "/images/places/church.svg",
+          "acceptedAnswers": [
+            "church"
+          ],
+          "tags": [
+            "unscramble"
+          ]
+        },
+        {
+          "id": "u03",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "OHSPIATL",
+          "imageUrl": "/images/places/hospital.svg",
+          "acceptedAnswers": [
+            "hospital"
+          ],
+          "tags": [
+            "unscramble"
+          ]
+        },
+        {
+          "id": "u04",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "PRKA",
+          "imageUrl": "/images/places/park.svg",
+          "acceptedAnswers": [
+            "park"
+          ],
+          "tags": [
+            "unscramble"
+          ]
+        },
+        {
+          "id": "u05",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "ARPOTIR",
+          "imageUrl": "/images/places/airport.svg",
+          "acceptedAnswers": [
+            "airport"
+          ],
+          "tags": [
+            "unscramble"
+          ]
+        },
+        {
+          "id": "u06",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "TTAESURNAR",
+          "imageUrl": "/images/places/restaurant.svg",
+          "acceptedAnswers": [
+            "restaurant"
+          ],
+          "tags": [
+            "unscramble"
+          ]
+        },
+        {
+          "id": "u07",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "MSEUUM",
+          "imageUrl": "/images/places/museum.svg",
+          "acceptedAnswers": [
+            "museum"
+          ],
+          "tags": [
+            "unscramble"
+          ]
+        },
+        {
+          "id": "u08",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "NECIMA",
+          "imageUrl": "/images/places/cinema.svg",
+          "acceptedAnswers": [
+            "cinema"
+          ],
+          "tags": [
+            "unscramble"
+          ]
+        },
+        {
+          "id": "u09",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "UBS TNAOIST",
+          "imageUrl": "/images/places/bus-station.svg",
+          "acceptedAnswers": [
+            "bus station"
+          ],
+          "tags": [
+            "unscramble"
+          ]
+        },
+        {
+          "id": "u10",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "BNKA",
+          "imageUrl": "/images/places/bank.svg",
+          "acceptedAnswers": [
+            "bank"
+          ],
+          "tags": [
+            "unscramble"
+          ]
+        },
+        {
+          "id": "u11",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "RAMF",
+          "imageUrl": "/images/places/farm.svg",
+          "acceptedAnswers": [
+            "farm"
+          ],
+          "tags": [
+            "unscramble"
+          ]
+        },
+        {
+          "id": "u12",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "RIFE TNAOIST",
+          "imageUrl": "/images/places/fire-station.svg",
+          "acceptedAnswers": [
+            "fire station"
+          ],
+          "tags": [
+            "unscramble"
+          ]
+        },
+        {
+          "id": "u13",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "OZO",
+          "imageUrl": "/images/places/zoo.svg",
+          "acceptedAnswers": [
+            "zoo"
+          ],
+          "tags": [
+            "unscramble"
+          ]
+        },
+        {
+          "id": "u14",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "TPOS OEFICF",
+          "imageUrl": "/images/places/post-office.svg",
+          "acceptedAnswers": [
+            "post office"
+          ],
+          "tags": [
+            "unscramble"
+          ]
+        },
+        {
+          "id": "u15",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "LPAYGORUND",
+          "imageUrl": "/images/places/playground.svg",
+          "acceptedAnswers": [
+            "playground"
+          ],
+          "tags": [
+            "unscramble"
+          ]
+        },
+        {
+          "id": "u16",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "RHPAMCYA",
+          "imageUrl": "/images/places/pharmacy.svg",
+          "acceptedAnswers": [
+            "pharmacy"
+          ],
+          "tags": [
+            "unscramble"
+          ]
+        },
+        {
+          "id": "u17",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "TOLEH",
+          "imageUrl": "/images/places/hotel.svg",
+          "acceptedAnswers": [
+            "hotel"
+          ],
+          "tags": [
+            "unscramble"
+          ]
+        },
+        {
+          "id": "u18",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "LBRIARY",
+          "imageUrl": "/images/places/library.svg",
+          "acceptedAnswers": [
+            "library"
+          ],
+          "tags": [
+            "unscramble"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2a",
+      "title": "Exercise 2",
+      "instruction": "Match the descriptions to the places in the city.",
+      "wordBank": [
+        "school",
+        "church",
+        "hospital",
+        "park",
+        "airport",
+        "restaurant",
+        "museum",
+        "cinema",
+        "bus station",
+        "bank"
+      ],
+      "questions": [
+        {
+          "id": "m-a",
+          "type": "drag_blank",
+          "points": 1,
+          "prompt": "a. You go here to learn and study.",
+          "answer": "school"
+        },
+        {
+          "id": "m-b",
+          "type": "drag_blank",
+          "points": 1,
+          "prompt": "b. People go here to pray.",
+          "answer": "church"
+        },
+        {
+          "id": "m-c",
+          "type": "drag_blank",
+          "points": 1,
+          "prompt": "c. You go here when you are sick or hurt.",
+          "answer": "hospital"
+        },
+        {
+          "id": "m-d",
+          "type": "drag_blank",
+          "points": 1,
+          "prompt": "d. It is a place with trees, grass and a playground.",
+          "answer": "park"
+        },
+        {
+          "id": "m-e",
+          "type": "drag_blank",
+          "points": 1,
+          "prompt": "e. You go here to catch a plane.",
+          "answer": "airport"
+        },
+        {
+          "id": "m-f",
+          "type": "drag_blank",
+          "points": 1,
+          "prompt": "f. You go here to eat a meal.",
+          "answer": "restaurant"
+        },
+        {
+          "id": "m-g",
+          "type": "drag_blank",
+          "points": 1,
+          "prompt": "g. You can see old and interesting things here.",
+          "answer": "museum"
+        },
+        {
+          "id": "m-h",
+          "type": "drag_blank",
+          "points": 1,
+          "prompt": "h. You can watch the latest movies here.",
+          "answer": "cinema"
+        },
+        {
+          "id": "m-i",
+          "type": "drag_blank",
+          "points": 1,
+          "prompt": "i. You take a bus here to travel to other places.",
+          "answer": "bus station"
+        },
+        {
+          "id": "m-j",
+          "type": "drag_blank",
+          "points": 1,
+          "prompt": "j. You keep your money here.",
+          "answer": "bank"
+        }
+      ]
+    },
+    {
+      "id": "s2b",
+      "title": "Exercise 2",
+      "instruction": "Match the descriptions to the places in the city. (continued)",
+      "wordBank": [
+        "zoo",
+        "post office",
+        "playground",
+        "fire station",
+        "farm",
+        "pharmacy",
+        "hotel",
+        "library"
+      ],
+      "questions": [
+        {
+          "id": "m-k",
+          "type": "drag_blank",
+          "points": 1,
+          "prompt": "k. This is a place with animals.",
+          "answer": "zoo"
+        },
+        {
+          "id": "m-l",
+          "type": "drag_blank",
+          "points": 1,
+          "prompt": "l. You can send letters and packages here.",
+          "answer": "post office"
+        },
+        {
+          "id": "m-m",
+          "type": "drag_blank",
+          "points": 1,
+          "prompt": "m. Children can play here.",
+          "answer": "playground"
+        },
+        {
+          "id": "m-n",
+          "type": "drag_blank",
+          "points": 1,
+          "prompt": "n. Firefighters work here.",
+          "answer": "fire station"
+        },
+        {
+          "id": "m-o",
+          "type": "drag_blank",
+          "points": 1,
+          "prompt": "o. This is a place in the countryside where people grow crops and keep animals.",
+          "answer": "farm"
+        },
+        {
+          "id": "m-p",
+          "type": "drag_blank",
+          "points": 1,
+          "prompt": "p. You can buy medicine here.",
+          "answer": "pharmacy"
+        },
+        {
+          "id": "m-q",
+          "type": "drag_blank",
+          "points": 1,
+          "prompt": "q. You can stay here when you travel to another city.",
+          "answer": "hotel"
+        },
+        {
+          "id": "m-r",
+          "type": "drag_blank",
+          "points": 1,
+          "prompt": "r. You can borrow books and read here.",
+          "answer": "library"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Exercise 3",
+      "instruction": "Read and write the names of the places.",
+      "questions": [
+        {
+          "id": "r01",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "This place has classrooms where students study.",
+          "imageUrl": "/images/places/school.svg",
+          "acceptedAnswers": [
+            "school"
+          ]
+        },
+        {
+          "id": "r02",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "People go to this place to pray.",
+          "imageUrl": "/images/places/church.svg",
+          "acceptedAnswers": [
+            "church"
+          ]
+        },
+        {
+          "id": "r03",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "You go here when you are sick or hurt.",
+          "imageUrl": "/images/places/hospital.svg",
+          "acceptedAnswers": [
+            "hospital"
+          ]
+        },
+        {
+          "id": "r04",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "This place has trees, flowers and a playground.",
+          "imageUrl": "/images/places/park.svg",
+          "acceptedAnswers": [
+            "park"
+          ]
+        },
+        {
+          "id": "r05",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "You go here to catch a plane.",
+          "imageUrl": "/images/places/airport.svg",
+          "acceptedAnswers": [
+            "airport"
+          ]
+        },
+        {
+          "id": "r06",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "You can eat a meal here.",
+          "imageUrl": "/images/places/restaurant.svg",
+          "acceptedAnswers": [
+            "restaurant"
+          ]
+        },
+        {
+          "id": "r07",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "You can see old and interesting things here.",
+          "imageUrl": "/images/places/museum.svg",
+          "acceptedAnswers": [
+            "museum"
+          ]
+        },
+        {
+          "id": "r08",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "You can watch movies on a big screen here.",
+          "imageUrl": "/images/places/cinema.svg",
+          "acceptedAnswers": [
+            "cinema"
+          ]
+        },
+        {
+          "id": "r09",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "You take a bus here to travel to other places.",
+          "imageUrl": "/images/places/bus-station.svg",
+          "acceptedAnswers": [
+            "bus station"
+          ]
+        },
+        {
+          "id": "r10",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "You can keep your money here.",
+          "imageUrl": "/images/places/bank.svg",
+          "acceptedAnswers": [
+            "bank"
+          ]
+        },
+        {
+          "id": "r11",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "You can see many animals here.",
+          "imageUrl": "/images/places/zoo.svg",
+          "acceptedAnswers": [
+            "zoo"
+          ]
+        },
+        {
+          "id": "r12",
+          "type": "fill_blank",
+          "points": 1,
+          "prompt": "You can send letters and packages here.",
+          "imageUrl": "/images/places/post-office.svg",
+          "acceptedAnswers": [
+            "post office"
+          ]
+        }
+      ]
+    }
+  ]
+}
